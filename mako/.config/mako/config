@@ -1,0 +1,25 @@
+# --- Colors ---
+background-color=#000000
+text-color=#a3dbe6
+border-color=#6b8e23
+
+# --- Layout ---
+border-size=0
+border-radius=8
+padding=10
+margin=10
+
+# --- Font ---
+font=JetBrains Mono 15
+
+# --- Behavior ---
+default-timeout=3000
+ignore-timeout=0
+
+# --- Placement ---
+anchor=top-right
+max-visible=5
+
+# --- Icons ---
+icons=1
+
