@@ -7,4 +7,4 @@ My personal Linux config (Hyprland setup).
 ```bash
 git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
-stow * ```
+stow * 
